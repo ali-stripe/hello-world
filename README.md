@@ -1,2 +1,6 @@
 # hello-world
-Test Repository to start
+Hi this @ali from Stripe Atlas team!
+
+This is my first README document on GitHub! 
+
+Just doing some tests.
